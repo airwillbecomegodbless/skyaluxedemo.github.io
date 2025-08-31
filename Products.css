@@ -6,77 +6,54 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 968px;
-}
-
-.u-section-1 .u-text-1 {
-  font-size: 6rem;
-  text-shadow: 7px 5px 8px rgba(0,0,0,0.4);
-  margin: 677px 424px 60px 6px;
+  min-height: 1050px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 798px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-right: 230px;
-    margin-left: 0;
+    min-height: 866px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 611px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-right: 10px;
+    min-height: 663px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 458px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-right: 0;
+    min-height: 497px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 288px;
-  }
-
-  .u-section-1 .u-text-1 {
-    font-size: 2.5rem;
+    min-height: 313px;
   }
 }
 
-.u-block-b35c-89,
-.u-block-b35c-89:before,
-.u-block-b35c-89 > .u-container-layout:before {
+.u-block-7140-89,
+.u-block-7140-89:before,
+.u-block-7140-89 > .u-container-layout:before {
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-block-b35c-89.u-block-b35c-89.u-block-b35c-89:hover {
+.u-block-7140-89.u-block-7140-89.u-block-7140-89:hover {
   border-radius: 10px !important;
   transform: scale(1) translateY(px) !important;
 }
 
-.u-block-b35c-89 {
+.u-block-7140-89 {
   border-color: transparent !important;
 }
 
-.u-block-b35c-89.u-block-b35c-89.u-block-b35c-89.hover {
+.u-block-7140-89.u-block-7140-89.u-block-7140-89.hover {
   border-radius: 10px !important;
   transform: scale(1) translateY(px) !important;
 }
 
-.u-block-b35c-89 {
+.u-block-7140-89 {
   border-color: transparent !important;
 }.u-section-2 .u-sheet-1 {
   min-height: 101px;
