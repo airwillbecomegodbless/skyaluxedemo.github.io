@@ -14,10 +14,10 @@
 }
 
  .u-section-1-1 {
-  background-image: url("images/iStock-1418295787.jpg"), url("images/4cef97e79a4cf5c340d6dbc900bc135888e7278bf28b0014c8594efd4e32ab5327082096dc8b0fc1d5a13f2c2e5430557a022ec97d8e44ef4c9be3_1280.jpg");
+  background-image: url("images/iStock-1418295787.jpg");
   background-position: 50% 50%;
-  background-repeat: no-repeat, no-repeat;
-  background-size: cover, cover;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .u-section-1-1 .u-sheet-1 {
